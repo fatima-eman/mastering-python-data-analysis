@@ -8,8 +8,8 @@ The goal of this project is to master the Python data science ecosystem and buil
 
 ### Module 1: Introduction to Python Packages
 * [Module 1: Python Packages for Data Science](./lecture-notes/module-01-python-packages.md)
-* _Module 2: Data Wrangling with Pandas (Coming Soon)_
-* _Module 3: Data Visualization Mastery (Coming Soon)_
+* [Module 2: Data Wrangling with Pandas](./lecture-notes/module-02-python-packages.md) 
+* [Module 3: Data Visualization Mastery](./lecture-notes/module-03-python-packages.md)
 
 ## 🛠️ Tech Stack & Ecosystem Covered
 * **Scientific Computing:** Pandas, NumPy, SciPy
